@@ -1,0 +1,115 @@
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.exe
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.deps.json
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.runtimeconfig.json
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.runtimeconfig.dev.json
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.pdb
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\ORM.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\ORM.pdb
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\ORM.dll.config
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.csprojAssemblyReference.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.AssemblyInfoInputs.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.AssemblyInfo.cs
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.csproj.CoreCompileInputs.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\staticwebassets\HW_20Web.StaticWebAssets.Manifest.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\staticwebassets\HW_20Web.StaticWebAssets.xml
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\HW_20Web.styles.css
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorTargetAssemblyInfo.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.csproj.CopyComplete
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.dll
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.pdb
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.genruntimeconfig.cache
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.Views.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.Views.pdb
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorAssemblyInfo.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorAssemblyInfo.cs
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.TagHelpers.input.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.TagHelpers.output.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorCoreGenerate.cache
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorTargetAssemblyInfo.cs
+D:\C# Projects\HW20\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.Views.pdb
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\C# Projects\HW20\HW_20Web\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.AssemblyInfoInputs.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.AssemblyInfo.cs
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.csproj.CoreCompileInputs.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorAssemblyInfo.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorAssemblyInfo.cs
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.dll
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.pdb
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.exe
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.deps.json
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.runtimeconfig.json
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.runtimeconfig.dev.json
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.pdb
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.Views.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\HW_20Web.Views.pdb
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\staticwebassets\HW_20Web.StaticWebAssets.Manifest.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\staticwebassets\HW_20Web.StaticWebAssets.xml
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\scopedcss\bundle\HW_20Web.styles.css
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.TagHelpers.input.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.TagHelpers.output.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorCoreGenerate.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorTargetAssemblyInfo.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.RazorTargetAssemblyInfo.cs
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.Views.pdb
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.csproj.CopyComplete
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\netcoreapp3.1\HW_20Web.genruntimeconfig.cache

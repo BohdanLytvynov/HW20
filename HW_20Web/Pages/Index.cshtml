@@ -1,0 +1,41 @@
+﻿@page
+
+@model HW_20Web.Pages.IndexModel
+
+@functions{
+
+    public string DayName { get; set; }
+
+    public void OnGet()
+    {
+        
+    }
+
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Notes Holder</title>
+    <link href="~/css/Styles.css" rel="stylesheet">
+    <script async src="~/js/main.js"></script>
+</head>
+<body>
+    
+    <header class="header">
+        <h1>Note Holder Presenter</h1>
+    </header>
+    <main>
+        <div id="root">
+            <img src="~/images/joshua-rawson.jpg" alt="Alternate Text" />
+        </div>
+        <button>
+            Push
+        </button>
+    </main>
+
+    <footer>
+
+    </footer>
+    
+</body>
+</html>
