@@ -1,36 +1,80 @@
 ﻿@page
 
 @model HW_20Web.Pages.IndexModel
-
+@using ORM_Core;
 @functions{
-
-    public string DayName { get; set; }
-
-    public void OnGet()
-    {
-        
-    }
-
+    
 }
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <title>Notes Holder</title>
-    <link href="~/css/Styles.css" rel="stylesheet">
-    <script async src="~/js/main.js"></script>
+    <link href="~/css/Styles.css?<?=filetime('~/css/Styles.css');?>" 
+          rel="stylesheet"
+         />
+    <script src="~/js/Script.js">
+        
+    </script>
 </head>
-<body>
+<body class="back">
     
-    <header class="header">
-        <h1>Note Holder Presenter</h1>
+    <header> 
+        <div class="header">
+            Note Holder Presenter
+        </div>
     </header>
     <main>
-        <div id="root">
-            <img src="~/images/joshua-rawson.jpg" alt="Alternate Text" />
-        </div>
-        <button>
-            Push
-        </button>
+        
+        <div class="table">
+            <table border="1">
+                <tr>
+                    <td>
+                        Id
+                    </td>
+                    <td>
+                        Surename
+                    </td>
+                    <td>
+                        Name
+                    </td>
+                    <td>
+                        Lastname
+                    </td>
+                    
+                </tr>
+
+                @{
+                    var func = (Func<IQueryable<Notes>>)ViewData["Get"];
+
+                    var res = func.Invoke();
+
+                    foreach (var item in res)
+                    {
+                                <tr>
+                                    <td>
+                                        @item.Id
+                                    </td>
+                                    <td>
+                                        @item.Surename
+                                    </td>
+                                    <td>
+                                        @item.Name
+                                    </td>
+                                    <td>
+                                        @item.Lastname
+                                    </td>                                    
+                                    <td>
+                                        <button class="button" onclick="OnClickButton(@item.Id)" >Click to View More!</button>
+                                    </td>
+
+                                </tr>
+                    }
+                 }
+
+            </table>
+        </div>   
+            
+        
     </main>
 
     <footer>

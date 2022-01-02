@@ -60,7 +60,6 @@ D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\net5.0\runtimes\win\lib\nets
 D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
 D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\net5.0\ORM_Core.dll
 D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\net5.0\ORM_Core.pdb
-D:\C# Projects\HW20 - копия\HW_20Web\bin\Debug\net5.0\ORM_Core.dll.config
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.csproj.AssemblyReference.cache
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.GeneratedMSBuildEditorConfig.editorconfig
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.AssemblyInfoInputs.cache
@@ -84,3 +83,4 @@ D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.dll
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\ref\HW_20Web.dll
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.pdb
 D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\HW_20Web.genruntimeconfig.cache
+D:\C# Projects\HW20 - копия\HW_20Web\obj\Debug\net5.0\Razor\Pages\Info.cshtml.g.cs

@@ -11,7 +11,9 @@ namespace HW_20Web.Pages
 {
     public class IndexModel : PageModel
     {
-        bool IsCollectionCreated;
+        private bool IsCollectionCreated;
+
+        protected NotesCollection dbcollection;
 
         public IndexModel()
         {
@@ -24,11 +26,23 @@ namespace HW_20Web.Pages
 
             if (!IsCollectionCreated)
             {
-                NotesCollection dbcollection = new NotesCollection();
+                dbcollection = new NotesCollection();
+
+                ViewData.Add("Get", new Func<IQueryable<Notes>>(GetNotes));
 
                 IsCollectionCreated = false;
             }
-            
+                        
+        }
+
+        
+
+        public IQueryable<Notes> GetNotes()
+        {
+            var res = from n in dbcollection.Notes
+                      select n;
+
+            return res;
         }
     }
 }

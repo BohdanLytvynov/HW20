@@ -1,0 +1,108 @@
+﻿@page
+@model HW_20Web.Pages.InfoModel
+@using ORM_Core;
+@functions{
+    
+}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Additional Info Page</title>
+    <link href="~/css/Styles.css?<?=filetime('~/css/Styles.css');?>" rel="stylesheet" />
+    <script src="~/js/Script.js">
+
+    </script>
+    <style>
+        .body {
+            background-color:black;
+        }
+    </style>
+</head>
+<body class="infoback">
+    <header class="header">Aditional Info</header>
+
+    <main>
+        <div>Here Is your Info:</div>
+        <table class="table">
+            <tr>
+                <td>
+                    <table border="1">
+                        <tr>
+                            <td>
+                                Id
+                            </td>
+                       
+                            <td>
+                                Surename
+                            </td>
+                        
+                            <td>
+                                Name
+                            </td>
+                        
+                            <td>
+                                LastName
+                            </td>
+                       
+                            <td>
+                                Phone
+                            </td>
+                        
+                            <td>
+                                Adress
+                            </td>
+                        
+                            <td>
+                                Description
+                            </td>
+                        </tr>
+
+                        @{
+                            var res = (IQueryable<Notes>)ViewData["Res"];
+
+                            foreach (var item in res)
+                            {
+                                <tr>
+                                    <td>
+                                        @item.Id
+                                    </td>
+                                    <td>
+                                        @item.Surename
+                                    </td>
+                                    <td>
+                                        @item.Name
+                                    </td>
+                                    <td>
+                                        @item.Lastname
+                                    </td>
+                                    <td>
+                                        @item.Phone
+                                    </td>
+                                    <td>
+                                        @item.Adress
+                                    </td>
+                                    <td>
+                                        @item.Description
+                                    </td>
+                                </tr>
+                            }
+                         }
+                    </table>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    <button class="button" onclick="Return()">
+                        Back to main page
+                    </button>
+                </td>
+            </tr>
+        </table>
+
+    </main>
+
+    <footer>
+    </footer>
+</body>
+</html>

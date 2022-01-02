@@ -33,13 +33,8 @@ namespace HW_20Web
             app.UseRouting();
 
             app.UseEndpoints(endpoints =>
-            {
+            {                            
                 endpoints.MapRazorPages();
-
-                endpoints.MapGet("/hello", async context =>
-                {
-                    await context.Response.WriteAsync("Hello World!");
-                });
             });
             
         }

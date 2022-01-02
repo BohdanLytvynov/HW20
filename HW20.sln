@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW_20Web", "HW_20Web\HW_20Web.csproj", "{444E924E-B8F4-4CBD-BB18-ECA551396A14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORM_Core", "ORM_Core\ORM_Core.csproj", "{09ACBAE7-08E1-490F-9958-9BC71F7A46D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ORM_Core", "ORM_Core\ORM_Core.csproj", "{09ACBAE7-08E1-490F-9958-9BC71F7A46D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -10,4 +10,3 @@ D:\C# Projects\HW20 - копия\ORM_Core\obj\Debug\net5.0\ORM_Core.csproj.CoreC
 D:\C# Projects\HW20 - копия\ORM_Core\obj\Debug\net5.0\ORM_Core.dll
 D:\C# Projects\HW20 - копия\ORM_Core\obj\Debug\net5.0\ref\ORM_Core.dll
 D:\C# Projects\HW20 - копия\ORM_Core\obj\Debug\net5.0\ORM_Core.pdb
-D:\C# Projects\HW20 - копия\ORM_Core\bin\Debug\net5.0\ORM_Core.dll.config
